@@ -22,8 +22,8 @@
         {
           "type": "git",
           "url": "https://centrifuge.hectabit.org/HectaBit/PageBurger-App.git",
-          "tag": "1.0",
-          "commit": "26fae71110cea6568e5c86b6746dbd1a303bcdb7"
+          "tag": "1.0-1",
+          "commit": "64677c75b3326b7864fd39cac3dec8464c5f7c0a"
         }
       ]
     }
