@@ -21,9 +21,9 @@
       "sources": [
         {
           "type": "git",
-          "url": "https://centrifuge.hectabit.org/HectaBit/PageBurger-App.git",
-          "tag": "1.1",
-          "commit": "e897c7d5637c5531380c9d9ac129d66f5a88a989"
+          "url": "https://centrifuge.hectabit.org/HectaBit/Burgernotes-App.git",
+          "tag": "1.1-1",
+          "commit": "efe8a51c5fdf6e8e243ae41590df2c132b7ef89a"
         }
       ]
     }
